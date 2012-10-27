@@ -1,0 +1,25 @@
+<resources>
+
+    <string name="app_name">Step-Drawdown Well Test</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Step-DrawDown Well Test</string>
+    <string name="soggiacenza">Drawdown (m)</string>
+    <string name="portata">Pumping rate (l/s)     </string>
+    <string name="salva">Save</string>
+    <string name="grafico">Plot</string>
+    <string name="cancella">Delete</string>
+    <string name="title_activity_grafico">Step-Drawdown Well Test</string>
+    <string name="zero">0</string>
+    <string name="titolo1">DrawDown</string>
+    <string name="portata2">Pumping Rate</string>
+    <string name="vuota">" "</string>
+    <string name="step1">Step 1  </string>
+    <string name="step2">Step 2  </string>
+    <string name="step3">Step 3  </string>
+    <string name="step4">Step 4  </string>
+    <string name="step5">Step 5  </string>
+    <string name="errore">You need at least 2 steps</string>
+    <string name="stringa_vuota">Empty field</string>
+
+</resources>
